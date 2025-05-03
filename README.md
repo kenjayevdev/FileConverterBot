@@ -9,8 +9,8 @@ pdf, docx, pptx, xlsx, xls, doc, dwg, epub, mobi, ai, ico, csv, html, svg, tiff,
 
 ## Setup
 
-- run 'git clone https://github.com/kenjayevdev/FileConverterBot.git' copy repositories
-- run 'cd FileConverterBot' accessing repositories
+- run `git clone https://github.com/kenjayevdev/FileConverterBot.git` copy repositories
+- run `cd FileConverterBot` accessing repositories
 - run `python -m venv env` to create virtual environment
 - run `env\Scripts\activate` to activate the env
 - run `pip install -r requirements.txt` to install all required packages
